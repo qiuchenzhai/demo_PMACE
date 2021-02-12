@@ -1,0 +1,11 @@
+numpy
+spicy
+pandas
+pillow
+matplotlib
+opencv-python
+opencv-contrib-python
+scikit-image
+scikit-learn
+pyfftw
+imagecodecs
