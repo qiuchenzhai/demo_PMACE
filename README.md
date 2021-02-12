@@ -8,7 +8,7 @@ This python package implements PMACE algorithm for solving ptychographic
 reconstruction problem. 
 
 ## Requirements
-The required packages are included in requirements.txt. Please build your virtualenv first, activate it and then run the following command in your shell:
+The demo is created based on python==3.7.6. The required packages are included in requirements.txt. Please build your virtualenv first, activate it and then run the following command in your shell:
 
 ```console
 pip install -r requirements.txt
