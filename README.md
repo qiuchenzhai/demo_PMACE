@@ -1,5 +1,3 @@
-# demo_PMACE
-
 # PMACE algorithm 
 [//]: # (Qiuchen Zhai, Dr. Wohlberg, Prof. Charles A. Bouman, Prof. T. Gregery Buzzard<br/>)
 [//]: # (Email: qzhai@purdue.edu<br/>)
