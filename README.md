@@ -19,13 +19,15 @@ pip install -r requirements.txt
 [//]: # (Institution: School of Electrical and Computer Engineering, Purdue University<br/>)
 
 ## Files
-#### 1. demos
-* demo_IC_simulation.py <br/>
-This demo demonstrates the generation of diffraction patterns using the digital phantom and reconstruction of complex image performed by PMACE algorithms and Wirting Flow algorithms. The IC image is included in the subfloder named 'data'.
+#### 1. demo
 * demo.py <br/>
 This demo performs PMACE reconstruction of given dataset.
 #### 2. utils
 It contains code for PMACE algorithm for differnet use. 
+#### 2. data
+This folder provides ground truth image beam profile function, as well as simulated measurements data. 
+#### 2. results
+The implementation results could be found here. 
 
 ## Other
 Constructing this repository is a work in progress. The details and documentation remain to be improved, and the code needs to be cleared and modified. Please let me know if you have any suggestions or questions.
