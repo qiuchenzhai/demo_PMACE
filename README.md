@@ -19,8 +19,7 @@ pip install -r requirements.txt
 [//]: # (Institution: School of Electrical and Computer Engineering, Purdue University<br/>)
 
 ## Files
-#### 1. demo
-* demo.py <br/>
+#### 1. demo.py <br/>
 This demo performs PMACE reconstruction of given dataset.
 #### 2. utils
 It contains code for PMACE algorithm for differnet use. 
