@@ -4,8 +4,7 @@
 [//]: # (Institution: School of Electrical and Computer Engineering, Purdue University<br/>)
 
 ## Overview
-This python package implements PMACE algorithm for solving ptychographic 
-reconstruction problem. 
+This python package provides a simple demo for PMACE approach. 
 
 ## Requirements
 The demo is created based on python==3.7.6. The required packages are included in requirements.txt. Please build your virtualenv first, activate it and then run the following command in your shell:
